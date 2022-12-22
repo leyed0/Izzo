@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet>
+  <Parameters>
+    <Zero>1234</Zero>
+    <UM>rf</UM>
+    <Constant>1.432000</Constant>
+    <Interval>234</Interval>
+    <COM />
+    <Baud />
+  </Parameters>
+</DataSet>
