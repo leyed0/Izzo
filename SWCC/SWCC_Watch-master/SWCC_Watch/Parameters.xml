@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet>
+  <Parameters>
+    <Zero>1</Zero>
+    <Constant>1</Constant>
+    <Interval>60000</Interval>
+    <Baud>9600</Baud>
+  </Parameters>
+</DataSet>

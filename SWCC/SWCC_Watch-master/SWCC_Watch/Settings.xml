@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet>
+  <Parameters>
+    <Zero>0</Zero>
+    <UM />
+    <Constant>0</Constant>
+    <Interval>0</Interval>
+    <Baud>9600</Baud>
+    <CSVPath>Path</CSVPath>
+  </Parameters>
+</DataSet>
